@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x2e86DB70fDe7D26f598B90C6C1329845109A5241",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x2e86DB70fDe7D26f598B90C6C1329845109A5241#code",
+  "NETWORK": {
+    "NAME": "Rinkeby",
+    "SYMBOL": "ETH",
+    "ID": 4
+  },
+  "NFT_NAME": "ArchaicShellBabies",
+  "SYMBOL": "ArchaicSB",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 100000000000000,
+  "DISPLAY_COST": 0.15,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/archaicshellbabies",
+  "SHOW_BACKGROUND": true
+}
